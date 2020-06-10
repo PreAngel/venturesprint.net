@@ -1,6 +1,6 @@
 ---
 title: 数翔科技冲刺故事
-author: shuxiang
+author: shuxiangkeji
 categories: news
 tags:
   - vs11
