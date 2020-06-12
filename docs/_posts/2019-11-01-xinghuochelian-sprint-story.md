@@ -4,6 +4,8 @@ author: xinghuochelian
 categories: news
 tags:
   - vs11
+  - featured
+  - home
 image: assets/2019/11-xinghuochelian-sprint/heying.jpg
 ---
 ![1](/assets/2019/11-xinghuochelian-sprint/1.jpg)
