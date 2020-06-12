@@ -2,7 +2,7 @@
 name: 数翔科技
 site: 
 bio: 数翔科技是一个全方位的物流无人驾驶方案提供商！
-avatar: /assets/portfolios/shuxiangkeji/icon.jpg
+avatar: /assets/portfolios/shuxiang/icon.jpg
 twitter: 
 people:
   - yingjie-lu

@@ -1,10 +1,10 @@
 ---
 title: Venture Sprint冲刺培训中的点点滴滴
-author: kanshan
+author: kanshankeji
 categories: news
 tags:
   - vs5
-image: /assets/portfolios/kanshankeji/heying.jpg
+image: assets/2019/04-05-kanshankeji-sprint/heying.jpg
 ---
 原本5天的Venture Sprint冲刺培训被压缩为4天。于是，有了这紧张而充实的难忘4天。
 先来说说这个培训是什么吧！

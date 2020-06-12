@@ -1,13 +1,12 @@
 ---
 title: 清华雀巢可持续性包装冲刺
-author: xlab
+author: quechao-xlab
 categories: news
 tags:
   - vs10
   - home
-image: /assets/portfolios/quechao-xlab/heying.jpg
+image: assets/2019/10-quechao-xlab-sprint/heying.jpg
 ---
-![1](/assets/2019/10-quechao-xlab-sprint/1.jpg)
 ![1](/assets/2019/10-quechao-xlab-sprint/1.jpg)
 ![2](/assets/2019/10-quechao-xlab-sprint/2.jpg)
 ![3](/assets/2019/10-quechao-xlab-sprint/3.jpg)
