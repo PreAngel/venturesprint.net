@@ -4,6 +4,9 @@ author: laosiji
 categories: news
 tags:
   - vs3
+  - featured
+  - home
+  - interview
 image: assets/2019/03-fenchaokeji-sprint/heying.jpg
 ---
 ![1](/assets/2019/03-fenchaokeji-sprint/1.jpg)
