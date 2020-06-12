@@ -4,6 +4,8 @@ author: maodouwang
 categories: news
 tags:
   - vs9
+  - featured
+  - home
 image: assets/2019/09-maodou-sprint/heying.jpg
 ---
 ![1](/assets/2019/09-maodou-sprint/1.jpg)
