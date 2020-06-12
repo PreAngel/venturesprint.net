@@ -4,6 +4,8 @@ author: yuncheng
 categories: news
 tags:
   - vs2
+  - featured
+  - home
 image: assets/2019/02-yunchen-sprint/heying.jpg
 ---
 当我们正在酝酿如何根据用户需求将硬件与服务相结合时，我们看到了Venture Sprint的招募通知。想到能在5天的时间里将想法实现成产品原型并进行用户测试，还有专业的人在这个过程中把关指导，我们兴奋不已。而在经历了5天冲刺、拿到了用户反馈后，我们也十分庆幸当时毫不犹豫地报名参加Venture
