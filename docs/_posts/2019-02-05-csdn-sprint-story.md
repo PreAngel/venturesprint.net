@@ -3,9 +3,10 @@ title: CSDN冲刺故事
 author: csdn
 categories: news
 tags:
-  - sprint
-  - venture
-  - innovation
+  - vs1
+  - featured
+  - home
+  - interview
 image: assets/2019/01-csdn-sprint//heying.jpg
 ---
 ![1](/assets/2019/01-csdn-sprint/1.jpg)
