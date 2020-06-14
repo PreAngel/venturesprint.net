@@ -1,5 +1,5 @@
 ---
-name: Ruijun YAO (姚瑞军)
+name: Thomas YAO (姚瑞军)
 site: https://www.venture-sprint.com
 avatar: /assets/peoples/ruijun-yao/avatar.jpg
 bio: 创新冲刺创始人 & CEO，Design SPRINT Master，教练执行师
