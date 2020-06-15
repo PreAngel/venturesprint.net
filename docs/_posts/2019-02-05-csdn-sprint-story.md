@@ -5,7 +5,6 @@ categories: news
 tags:
   - vs1
   - featured
-  - home
   - interview
 image: assets/2019/01-csdn-sprint//heying.jpg
 ---

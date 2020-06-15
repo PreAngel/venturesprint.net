@@ -6,10 +6,10 @@ avatar: /assets/portfolios/shequ/icon.jpg
 twitter: 
 people:
   - tong-li
-  - naiqian-zhang
   - zengyin-du
   - yue-jiang
   - qian-zhang
+  - zenyin-du
 ---
 社区众创是由协同创业公社、垚旺资本、比特资本、超范式金融联合发起的社群创业孵化平台。
 

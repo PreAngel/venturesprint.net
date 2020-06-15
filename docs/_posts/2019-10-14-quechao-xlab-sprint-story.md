@@ -5,19 +5,33 @@ categories: news
 tags:
   - vs10
   - home
+  - featured
 image: assets/2019/10-quechao-xlab-sprint/heying.jpg
 ---
-![1](/assets/2019/10-quechao-xlab-sprint/1.jpg)
-![2](/assets/2019/10-quechao-xlab-sprint/2.jpg)
-![3](/assets/2019/10-quechao-xlab-sprint/3.jpg)
-![4](/assets/2019/10-quechao-xlab-sprint/4.jpg)
-![5](/assets/2019/10-quechao-xlab-sprint/5.jpg)
-![6](/assets/2019/10-quechao-xlab-sprint/6.jpg)
-![7](/assets/2019/10-quechao-xlab-sprint/7.jpg)
-![8](/assets/2019/10-quechao-xlab-sprint/8.jpg)
-![9](/assets/2019/10-quechao-xlab-sprint/9.jpg)
-![10](/assets/2019/10-quechao-xlab-sprint/10.jpg)
-![11](/assets/2019/10-quechao-xlab-sprint/11.jpg)
-![12](/assets/2019/10-quechao-xlab-sprint/12.jpg)
-![13](/assets/2019/10-quechao-xlab-sprint/13.jpg)
-![14](/assets/2019/10-quechao-xlab-sprint/14.jpg)
+2019年这个秋冬对于清华X-lab来说完全可以用风风火火来形容:9月至10月，与雀巢（中国）研发公司进行包装可持续性联合创新挑战；10月30日-12月3日一对一专家辅导挑战团队；以及即将隆启的12月6日联合创新挑战中期汇报......
+
+这一季，让清华的学子们约会了世界更好的创新思想；
+这一季，让雀巢（中国）研发有了更加水土相服产品落地方案；
+通过系统化理论学习、实地走访和创新冲刺训练，学员们经历了一场思维开拓的全新旅程，在导师春风化雨般的指导下，一步步明确和细化了创新挑战的方向。
+
+从初来时彼此陌生到曲终人散时浓浓的不舍之情，每一位创新学员经历了一段最令人难忘的创新之旅。32位清华x-lab学子在一场又一场看似虚拟的创新过程演练中体味了一次又一次真枪实战的市场风云际会。雀巢中国研发中心团队更是经历了一场鲜有的关于打造全新的可持续包装商业模式的超级接地气产品方案头脑风暴。
+![1](/assets\2019\10-quechao-xlab-sprint/1.jpg)
+
+10月19〜20日，由Venture Sprint创始人、创新冲刺教练姚瑞军和清华x-lab教育总监杜霞担任此次冲刺教练，团队成员们在清华x-lab空间进行了为期两天的创新冲刺，聚焦雀巢产品研发问题所在，打造针对雀巢（中国）公司发展过程中的问题创新解决方案。
+![0](/assets\2019\10-quechao-xlab-sprint/0.jpg)
+![2](/assets\2019\10-quechao-xlab-sprint/2.jpg)
+
+通过棉花糖挑战、问题探究、挑战升级、用户访谈、地图绘制等环节，团队成员一步步地将解决方案梳理清晰。
+![3](/assets\2019\10-quechao-xlab-sprint/3.jpg)
+![4](/assets\2019\10-quechao-xlab-sprint/4.jpg)
+_激情四溢的创新冲刺现场_
+![5](/assets\2019\10-quechao-xlab-sprint/5.jpg)
+![6](/assets\2019\10-quechao-xlab-sprint/6.jpg)
+_活力四射的学员创意挑战_
+
+“创新冲刺挑战的主要目的是不断地去尝试，错了及时改善方案，才能取得成功。”挑战结束后，负责本次冲刺的教练导师说，在错误中寻找正确，不断地尝试，才能不断地前进一步，而这正是创新挑战赛的核心。
+![7](/assets\2019\10-quechao-xlab-sprint/7.jpg)
+
+经过两天的冲刺，20日下午4点，final pitch环节开始。各项目团队向大家展示了各自的创新挑战方向和相应的解决方案，由安永咨询总监周为先生、天使投资人袁晓洋先生、雀巢研发谢敏女士和x-lab教育总监杜霞女士共同担任了项目评委，他们分别从不同角度为每个团队提出问题、建议、指导及帮助。
+![8](/assets\2019\10-quechao-xlab-sprint/8.jpg)
+_清华x-lab教育总监  杜霞女士_
