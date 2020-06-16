@@ -6,11 +6,11 @@ tags:
   - vs1
   - featured
   - interview
+  - design sprint
 image: assets/2019/01-csdn-sprint//heying.jpg
 ---
-![1](/assets/2019/01-csdn-sprint/1.jpg)
-![2](/assets/2019/01-csdn-sprint/2.jpg)
-![3](/assets/2019/01-csdn-sprint/3.jpg)
+创新冲刺是一套用于解决棘手难题的五天式流程，是战略、创新、消费行为学、产品设计等领域的“超级精选专辑”，可以理解为设计思考和敏捷开发的实践操作版。设计冲刺起源于谷歌，在那里，它几乎被用于谷歌的任何项目：从搜索引擎到电子邮箱，再到无人驾驶汽车。传入谷歌风投之后，这套方法已经帮助100余家初创公司成功起步，它们中的许多如今已是人尽皆知的业界标杆。
+
 ![4](/assets/2019/01-csdn-sprint/4.jpg)
 ![5](/assets/2019/01-csdn-sprint/5.jpg)
 ![6](/assets/2019/01-csdn-sprint/6.jpg)
@@ -51,5 +51,5 @@ image: assets/2019/01-csdn-sprint//heying.jpg
 ![42](/assets/2019/01-csdn-sprint/42.jpg)
 ![43](/assets/2019/01-csdn-sprint/43.jpg)
 ![44](/assets/2019/01-csdn-sprint/44.jpg)
-![45](/assets/2019/01-csdn-sprint/46.jpg)
+![45](/assets/2019/01-csdn-sprint/45.jpg)
 ![46](/assets/2019/01-csdn-sprint/46.jpg)

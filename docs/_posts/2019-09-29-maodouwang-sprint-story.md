@@ -6,6 +6,7 @@ tags:
   - vs9
   - featured
   - home
+  - design sprint
 image: assets/2019/09-maodou-sprint/heying.jpg
 ---
 冲刺第1天，我们团队是第⼀个进教室的，有图为证。
