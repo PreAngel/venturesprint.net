@@ -22,6 +22,7 @@ image: assets/2019/01-venture-sprint//heying.jpg
 
 关于产品定位，目前硅谷流行着一种叫做“Sprint硅谷创新冲刺”的产品前期研发方式。Sprint硅谷创新冲刺（以下简称“创新冲刺”）是一套来源于硅谷的、用于解决棘手难题的五天式流程集训。Google、Uber、eBay、Airbnb等诸多知名科技公司，都在使用创新冲刺来攻克他们在产品创新中所面临的困境。
 ![google](/assets/2019/01-venture-sprint/google.png)
+
 创新冲刺最初起源于谷歌，它几乎被用于谷歌的任何项目：从搜索引擎到电子邮箱，再到无人驾驶汽车。传入谷歌风投之后，这套方法已经帮助100余家初创公司成功起步，它们中的许多公司，如今已是人尽皆知的业界标杆。
 ![sprint](/assets/2019/01-venture-sprint/sprint.jpg)
 
