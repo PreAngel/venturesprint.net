@@ -8,7 +8,7 @@ tags:
   - interview
   - home
   - design sprint
-image: assets/2019/02-venture-sprint//heying.jpg
+image: assets/2019/02-venture-sprint/heying.jpg
 ---
 Venture Sprint创新冲刺(design sprint)最大的优势就是可以帮助创业者快进到未来，在投资之前，看到客户对自己产品的真实反应。
 ![5](/assets/2019/02-venture-sprint/5.jpg)
