@@ -40,7 +40,7 @@ people:
 
 第五步——我们通过5个一对一的用户访谈来测试原型。
 
-![logo](/assets/ventures/design-sprint/logo.jpg)
+![0](/assets/ventures/design-sprint/0.jpg)
 
 Venture Sprint致力于为初创团队、成长期创业公司和成熟公司中的创新业务组，提供基于Google Design Sprint的创新教练服务。利用五天时间，完成问题的分析、定义、解决方案、产品原型和用户测试的闭环流程。通过最终用户的真实反馈，达到对项目进行快速评估的目标，进而对战略方向进行及时的反馈和调整，避免把时间浪费在错误的方向上。
 
