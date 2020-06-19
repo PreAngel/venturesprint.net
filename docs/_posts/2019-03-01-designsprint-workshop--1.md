@@ -8,7 +8,7 @@ tags:
   - interview
   - home
   - design sprint
-image: assets/2019/01-venture-sprint//heying.jpg
+image: assets/2019/01-venture-sprint/heying.jpg
 ---
 
 最近，国内社交圈很热闹，今日头条的多闪、前快播创始人王欣的MT社交、快如科技的聊天宝，纷纷出来对垒国民社交软件微信。

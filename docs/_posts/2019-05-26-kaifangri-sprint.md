@@ -8,7 +8,7 @@ tags:
   - interview
   - home
   - design sprint
-image: assets/2019/06-kaifangri-sprint//9.jpg
+image: assets/2019/06-kaifangri-sprint/9.jpg
 ---
 5月23日，Venture Sprint创新冲刺工作坊迎来了它的首个开放日。此次开放日的主题为：创新的觉醒。工作坊吸引了来自经纬出行、香港科技大学EMBA、创业戈壁行、英诺、洪泰基金、清华XLAB创业DNA基金、开物相泰、Wisemont Capital、北京市孵育协会、搜狗、中科图灵基金、Plug and Play等20家单位的主要负责人前来参观学习，大家就新时代下如何高度赋能企业创新速度进行了充分的探讨。
 ![6](/assets/2019/06-kaifangri-sprint/6.jpg)
