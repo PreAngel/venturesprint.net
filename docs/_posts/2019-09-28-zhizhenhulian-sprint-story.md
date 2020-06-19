@@ -50,7 +50,6 @@ image: assets/2019/09-zhizhen-sprint/heying.jpg
 ## 收获良师益友
 
 ![13](/assets/2019/09-zhizhen-sprint/13.jpg)
-![14](/assets/2019/09-zhizhen-sprint/14.jpg)
 
 ## 收获70后和95后的奋斗精神
 
