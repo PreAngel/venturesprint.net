@@ -5,6 +5,7 @@ categories: news
 tags:
   - vs2
   - design sprint
+  - featured
 image: assets/2019/02-xinmoshi-sprint/5-heying.jpg
 ---
 人们怎样定义冲刺？在没有参加Venture Sprint冲刺班之前，我可能想到会去网络寻找答案，或者去问问身边的人。搜索引擎会告诉我，接近目标或快要成功时做最大的努力叫做冲刺。

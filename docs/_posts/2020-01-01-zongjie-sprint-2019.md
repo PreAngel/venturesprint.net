@@ -3,7 +3,6 @@ title: 一文速览Venture Sprint 2019
 author: venture-sprint
 categories: news
 tags:
-  - vs11
   - featured
   - interview
   - home

@@ -5,6 +5,7 @@ categories: news
 tags:
   - vs8
   - design sprint
+  - featured
 image: assets/2019/08-daotian-sprint/heying.jpg
 ---
 距冲刺结束已经有一个月了，冲刺对于我来说给了我很大的提升，在工作上的方向更清晰了。首先来回顾一下整个冲刺的过程。
