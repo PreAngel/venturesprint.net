@@ -29,7 +29,7 @@ image: assets/2019/08-daotian-sprint/heying.jpg
 
 之后我们开始进行建模，最终我们决定先用PPT的形式进行。
 ![6-prototype](/assets/2019/08-daotian-sprint/6-prototype.jpg)
-![7-prototype(/assets/2019/08-daotian-sprint/7-prototype.jpg)
+![7-prototype](/assets/2019/08-daotian-sprint/7-prototype.jpg)
 
 首先进行模拟测试，发现了太多的问题，最终进行5人用户测试。
 
