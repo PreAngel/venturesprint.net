@@ -7,7 +7,7 @@ tags:
   - interview
   - home
   - design sprint
-image: assets/2020/designsprint/1.png
+image: assets/2020/designsprint/sprint-diagram.png
 ---
 ## 什么是创新冲刺 ##
 
