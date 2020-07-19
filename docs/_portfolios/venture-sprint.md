@@ -30,19 +30,19 @@ ventures:
 
 ## 创新冲刺的核心优势
 
-1. 五天时间验证产品模式
+**1. 五天时间验证产品模式**
 ![2](/assets/portfolios/venture-sprint/2.png）
 用五天时间分步骤系统性解决创业思维难题。
 
-2. 极小投资完成创意测试
+**2. 极小投资完成创意测试**
 ![3](/assets/portfolios/venture-sprint/3.jpg）
 创新冲刺帮助wework节约了大量资金
 
-3. 10倍提升团队创新效率
+**3. 10倍提升团队创新效率**
 ![laosiji](/assets/portfolios/venture-sprint/laosiji.jpg）
 一周的冲刺，让我们节约了3-6个月的时间。-老司机联合创始人关巍
 
-4. 科学的控制风险和投入
+**4. 科学的控制风险和投入**
 ![6](/assets/portfolios/venture-sprint/6.png）
 创业者最缺的就是钱，创新冲刺在科学的创业方法论指导下，合理地帮助创业科学控制创业的风险与投资。
 
