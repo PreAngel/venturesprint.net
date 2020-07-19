@@ -7,7 +7,7 @@ tags:
   - interview
   - home
   - design sprint
-image: assets/2020/designsprint/sprint.jpg
+image: assets/2020/designsprint/design-sprint.png
 ---
 **创新冲刺**是源自谷歌的科学创业方法论，它把战略咨询的方法论打包成一个可快速落地，执行，产出解决方案的工作坊，用于帮助企业解决关键、要害命题：如产品，品牌营销，战略，组织转型等。
 ![1](/assets/2020/designsprint/1.jpg)
