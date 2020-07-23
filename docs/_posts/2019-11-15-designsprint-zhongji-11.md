@@ -4,8 +4,6 @@ author: venture-sprint
 categories: news
 tags:
   - vs11
-  - featured
-  - interview
   - home
 image: assets/2019/11-venture-sprint/3.jpg
 ---
