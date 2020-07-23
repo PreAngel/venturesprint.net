@@ -9,7 +9,9 @@ description: Venture SPRINT latest news.
 {% assign news_posts = '' | split: ',' %}
 {% for post in site.posts %}
   {% unless post.tags contains 'home' %}
-     {% assign news_posts = news_posts | push: post %}
+    {% unless post.tags contains 'design sprint' %}
+      {% assign news_posts = news_posts | push: post %}
+    {% endunless %}
   {% endunless %}
 {% endfor %}
 
@@ -216,7 +218,7 @@ description: Venture SPRINT latest news.
       </div>
 
       <div class="col-md-4">
-          {% include sidebar-featured.html %}
+        {% include sidebar-featured.html %}
       </div>
 
   </div>
