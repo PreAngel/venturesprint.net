@@ -3,6 +3,7 @@
   <ol class="list-featured">
 
     {% for post in site.tags.featured %}
+
       {% if post.tags contains 'design sprint' %}
         <!-- post.tags contains "design sprint": in design sprint page, we only display posts with tag `design sprint` -->
         {% unless design_sprint %}{% continue %}{% endunless %}
