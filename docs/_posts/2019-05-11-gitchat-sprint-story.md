@@ -4,7 +4,6 @@ author: gitchat
 categories: news
 tags:
   - vs4
-  - design sprint
   - featured
   - home
 image: assets/2019/04-gitchat-sprint/4-heying.jpg

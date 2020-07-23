@@ -7,7 +7,6 @@ tags:
   - featured
   - interview
   - home
-  - design sprint
 image: assets/2019/08-venture-sprint/heying.jpg
 ---
 市场争战，群雄逐鹿，创业者需要的是靠智慧打天下！然而，越来越多的创业者，却面临着下面这些困惑：

@@ -4,7 +4,6 @@ author: juzihudong
 categories: news
 tags:
   - vs6
-  - design sprint
 image:  assets/2019/06-juzihudong-sprint/heying.jpg
 ---
 ![1-start](/assets/2019/06-juzihudong-sprint/1-start.jpg)

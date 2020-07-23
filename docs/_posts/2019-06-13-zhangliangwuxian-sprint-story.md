@@ -4,7 +4,6 @@ author: sigai
 categories: news
 tags:
   - vs6
-  - design sprint
 image: assets/2019/06-zhangliangwuxian-sprint/7-heying.jpg
 ---
 关于冲刺

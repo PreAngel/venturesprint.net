@@ -4,7 +4,6 @@ author: weiyin
 categories: news
 tags:
   - vs1
-  - design sprint
 image: assets/2019/01-weiyin-sprint/heying.jpg
 ---
 很感谢李卓桓和姚瑞军老师的邀请，荣幸能参加第一期的Venture Sprint谷歌产品设计冲刺活动。我们团队五人从广州出发，在北京进行了一次极有意义的产品设计冲刺活动。团队成员也是第一次接触产品设计冲刺的方法论，行前专门买了书进行课前预习。

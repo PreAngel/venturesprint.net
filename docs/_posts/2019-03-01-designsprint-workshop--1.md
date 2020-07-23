@@ -7,7 +7,6 @@ tags:
   - featured
   - interview
   - home
-  - design sprint
 image: assets/2019/01-venture-sprint/heying.jpg
 ---
 

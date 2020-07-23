@@ -4,7 +4,6 @@ author: xinmoshi
 categories: news
 tags:
   - vs2
-  - design sprint
   - featured
 image: assets/2019/02-xinmoshi-sprint/5-heying.jpg
 ---

@@ -6,7 +6,6 @@ tags:
   - vs2
   - featured
   - home
-  - design sprint
 image: assets/2019/02-yunchen-sprint/heying.jpg
 ---
 当我们正在酝酿如何根据用户需求将硬件与服务相结合时，我们看到了Venture Sprint的招募通知。想到能在5天的时间里将想法实现成产品原型并进行用户测试，还有专业的人在这个过程中把关指导，我们兴奋不已。

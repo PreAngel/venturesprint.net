@@ -5,7 +5,6 @@ categories: news
 tags:
   - featured
   - interview
-  - home
   - design sprint
 image: assets/2020/designsprint/designsprint.jpg
 ---

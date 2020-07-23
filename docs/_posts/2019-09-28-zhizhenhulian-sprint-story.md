@@ -5,7 +5,6 @@ categories: news
 tags:
   - vs9
   - featured
-  - design sprint
 image: assets/2019/09-zhizhen-sprint/heying.jpg
 ---
 

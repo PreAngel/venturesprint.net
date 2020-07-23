@@ -7,7 +7,6 @@ tags:
   - featured
   - interview
   - home
-  - design sprint
 image: assets/2019/09-shiliujie-sprint/heying.jpg
 ---
 如今这个世界，只有你想不到，没有你做不到，对于创新设计尤为如是。

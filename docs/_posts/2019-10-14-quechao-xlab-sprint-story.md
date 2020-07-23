@@ -6,7 +6,6 @@ tags:
   - vs10
   - home
   - featured
-  - design sprint
 image: assets/2019/10-quechao-xlab-sprint/heying.jpg
 ---
 2019年这个秋冬对于清华X-lab来说完全可以用风风火火来形容:9月至10月，与雀巢（中国）研发公司进行包装可持续性联合创新挑战；10月30日-12月3日一对一专家辅导挑战团队；以及即将隆启的12月6日联合创新挑战中期汇报......

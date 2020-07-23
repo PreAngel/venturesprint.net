@@ -4,7 +4,6 @@ author: shuxiangkeji
 categories: news
 tags:
   - vs11
-  - design sprint
 image: assets/2019/11-shuxiangkeji-sprint//heying.jpg
 ---
 4天的封闭培训收获了很多。既学习到一套高效的发展问题解决问题的方法，更重要的是，还让我们团队在四天的封闭培训中找到团队最迫切需要解决的问题，并在有限的时间内迫使我们提出了解决问题行之有效的方案

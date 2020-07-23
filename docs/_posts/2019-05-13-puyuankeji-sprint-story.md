@@ -4,7 +4,6 @@ author: puyuankeji
 categories: news
 tags:
   - vs4
-  - design sprint
   - featured
 image: assets/2019/04-puyuankeji-sprint/4-heying.jpg
 ---

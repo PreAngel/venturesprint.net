@@ -4,7 +4,6 @@ author: kanshankeji
 categories: news
 tags:
   - vs5
-  - design sprint
 image: assets/2019/05-kanshankeji-sprint/heying.jpg
 ---
 原本5天的Venture Sprint冲刺培训被压缩为4天。于是，有了这紧张而充实的难忘4天。

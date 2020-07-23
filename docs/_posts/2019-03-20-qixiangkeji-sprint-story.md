@@ -4,7 +4,6 @@ author: qixiangkeji
 categories: news
 tags:
   - vs3
-  - design sprint
   - featured
 image: assets/2019/03-qixiangkeji-sprint/6-heying.jpg
 ---

@@ -4,7 +4,6 @@ author: daotian
 categories: news
 tags:
   - vs8
-  - design sprint
   - featured
 image: assets/2019/08-daotian-sprint/heying.jpg
 ---

@@ -4,7 +4,6 @@ author: dailekeji
 categories: news
 tags:
   - vs2
-  - design sprint
   - featured
 image: assets/2019/02-dailiekeji-sprint/6-heying.jpg
 ---
