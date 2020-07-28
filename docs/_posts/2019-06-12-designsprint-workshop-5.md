@@ -4,8 +4,6 @@ author: venture-sprint
 categories: news
 tags:
   - vs5
-  - featured
-  - interview
   - home
 image: assets/2019/05-venture-sprint/heying.jpg
 ---

@@ -4,8 +4,6 @@ author: venture-sprint
 categories: news
 tags:
   - vs7
-  - featured
-  - interview
   - home
 image: assets/2019/07-venture-sprint/10.jpg
 ---

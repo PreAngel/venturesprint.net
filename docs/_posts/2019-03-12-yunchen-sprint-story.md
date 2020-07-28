@@ -4,7 +4,6 @@ author: yuncheng
 categories: news
 tags:
   - vs2
-  - featured
   - home
 image: assets/2019/02-yunchen-sprint/heying.jpg
 ---

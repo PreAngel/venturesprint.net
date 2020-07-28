@@ -4,9 +4,7 @@ author: laosiji
 categories: news
 tags:
   - vs3
-  - featured
   - home
-  - interview
 image: assets/2019/03-fenchaokeji-sprint/heying.jpg
 ---
 2019年初，公司提出新的战略方向调整，对应涉及业务逻辑梳理、团队人员配备、产品研发上线等等。作为创业公司，需要快速搭建业务模型并推动验证，且在执⾏过程中尽可能避免走弯路。正当我们处在为达成Q1的阶段性目标快速前进过程中。3月初负责新业务的联合创始人关巍将一个名为创新冲刺工作坊推荐给主管团队，并表示要带队参加5天高强度培训。
