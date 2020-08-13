@@ -8,7 +8,6 @@ tags:
   - design sprint
 image: assets/2020/baokuan/01.jpg
 ---
-![01](/assets/2020/baokuan/01.jpg)
 ![02](/assets/2020/baokuan/02.jpg)
 ![03](/assets/2020/baokuan/03.jpg)
 ![05](/assets/2020/baokuan/05.jpg)
